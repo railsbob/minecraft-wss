@@ -15,4 +15,6 @@ The built in echo server takes the input from the chat prompt and sends it back 
 
 For example: The agent mob which is exclusive to the Educational Edition, but present in bedrock can be spawned and controlled using commands over the websocket.
 
+![2021-03-09 21-35-26 2021-03-09 21_48_11](https://user-images.githubusercontent.com/43969/110542664-40714100-8121-11eb-8190-ad8c3c703f88.gif)
+
 **Note:** Cheats must be enabled in order to be able to execute the `/connect` command. 
