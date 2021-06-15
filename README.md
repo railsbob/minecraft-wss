@@ -1,4 +1,4 @@
-~*Minecraft-wss*~ is an implementation of the unpublished Minecraft Bedrock Edition WebSocket protocol in nodejs. This is just a proof of concept, and not all commands are supported.
+*Minecraft-wss* is an implementation of the unpublished Minecraft Bedrock Edition WebSocket protocol in nodejs. This is just a proof of concept, and not all commands are supported.
 
  So far, it's verified to work with Windows 10 and Pocket Edition (iOS).
 
